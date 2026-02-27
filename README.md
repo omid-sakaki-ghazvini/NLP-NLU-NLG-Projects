@@ -74,9 +74,14 @@
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/smart-search-with-nlp.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
   </tr>
   <tr>
-    <td>FineTuning a NLP Model for Persian Question Answering and Building Custom Question Answering-Bot</td>
+    <td>FineTuning a NLP Model for Persian Question Answering and Building Custom Question Answering Bot</td>
    <td><a href="https://omidsakaki.ir/projects/20" target="_blank" rel="noreferrer">FineTuning LLM</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Fine-tuning-a-NLP-model-for-persian-question-answering-and-Building-Custom-Question-Answering-Bot/blob/master/persian_question_answering_model_tuned.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
+  </tr>
+  <tr>
+    <td>Simple Persian ChatBot</td>
+   <td><a href="https://omidsakaki.ir/projects/18" target="_blank" rel="noreferrer">LLM</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/simple_persian_chatbot.ipynb" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/hugging-face-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
   </tr>
  </table>
  </p>

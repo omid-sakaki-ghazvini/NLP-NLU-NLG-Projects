@@ -19,9 +19,9 @@
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Persian_Specialized_AI_%26_Technology_Assistant_with_RAG.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
   </tr>
   <tr>
-    <td>Contour Detection and Measure Size of a fire Using Python OpenCV</td>
-   <td><a href="https://omidsakaki.ir/practices/14" target="_blank" rel="noreferrer">Image Processing</a></td>
-   <td><a href="https://github.com/omid-sakaki-ghazvini/Contour-Detection-and-Measure-Size-of-a-fire-Using-Python-OpenCV/blob/master/Contour_Detection_and_Measure_Size_of_a_fire.py" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a></td>
+    <td>Persian RAG+Web+Fallback with Groq & LangGraph</td>
+   <td><a href="https://omidsakaki.ir/projects/66" target="_blank" rel="noreferrer">LangGraph</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Persian%20RAG%2BWeb%2BFallback%20with%20Groq%20%26%20LangGraph.ipynb" target="_blank" rel="noreferrer"> <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/langchain.svg" alt="RAG" width="40" height="40"/> </a></td>
   </tr>
    <tr>
     <td>Gender and Age Prediction</td>

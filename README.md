@@ -108,6 +108,11 @@
    <td><a href="https://omidsakaki.ir/projects/75jects/22" target="_blank" rel="noreferrer">VLMS</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/anomaly-detection-with-vlms.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
   </tr>
+  <tr>
+    <td>The Intelligent Phishing Email Detection System</td>
+   <td><a href="https://omidsakaki.ir/projects/58" target="_blank" rel="noreferrer">Text Classification</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/The_Intelligent_Phishing_Email_Detection_System.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
+  </tr>
  </table>
  </p>
 <hr />

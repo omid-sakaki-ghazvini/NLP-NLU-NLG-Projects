@@ -68,6 +68,11 @@
    <td><a href="https://omidsakaki.ir/projects/24" target="_blank" rel="noreferrer">RAG</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Building_a_RAG_system_with_Langchain_and_Hugging_Face.ipynb" target="_blank" rel="noreferrer"> <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/langchain.svg" alt="pytorch" width="40" height="40"/> </a></td>
   </tr>
+  <tr>
+    <td>Smart Search with NLP</td>
+   <td><a href="https://omidsakaki.ir/projects/22" target="_blank" rel="noreferrer">Search Text</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/smart-search-with-nlp.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
+  </tr>
  </table>
  </p>
 <hr />

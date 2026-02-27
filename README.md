@@ -53,6 +53,11 @@
    <td><a href="https://omidsakaki.ir/projects/45" target="_blank" rel="noreferrer">Prompt</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Prompt_Optimization_for_Text_Summarization_Using_Genetic_Algorithm_and_Language_Models.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
   </tr>
+  <tr>
+    <td>DocQA Agent A Local, Multi Agent Document Q&A System with LangGraph & HuggingFace</td>
+   <td><a href="https://omidsakaki.ir/projects/38" target="_blank" rel="noreferrer">AI Agent</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/DocQA_Agent_A_Local%2C_Multi_Agent_Document_Q%26A_System_with_LangGraph_%26_HuggingFace.ipynb" target="_blank" rel="noreferrer"> <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/langchain.svg" alt="pytorch" width="40" height="40"/> </a></td>
+  </tr>
  </table>
  </p>
 <hr />

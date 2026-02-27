@@ -33,6 +33,11 @@
    <td><a href="https://omidsakaki.ir/projects/56" target="_blank" rel="noreferrer">AI Agent</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Self_Improving_Intelligent_Agent_with_Reflexion_Architecture_and_Web_Search_Validation.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
   </tr>
+  <tr>
+    <td>Implementation and Comparison of 8 RAG Architectures</td>
+   <td><a href="https://omidsakaki.ir/projects/55" target="_blank" rel="noreferrer">LangGraph</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Implementation_and_Comparison_of_8_RAG_Architectures.ipynb" target="_blank" rel="noreferrer"> <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/langchain.svg" alt="RAG" width="40" height="40"/> </a></td>
+  </tr>
  </table>
  </p>
 <hr />

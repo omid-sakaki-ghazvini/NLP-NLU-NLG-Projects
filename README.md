@@ -83,6 +83,11 @@
    <td><a href="https://omidsakaki.ir/projects/18" target="_blank" rel="noreferrer">LLM</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/simple_persian_chatbot.ipynb" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/hugging-face-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
   </tr>
+  <tr>
+    <td>Multi Domain Sentiment Analysis</td>
+   <td><a href="https://omidsakaki.ir/projects/11" target="_blank" rel="noreferrer">Text Sentiment Analysis</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/multi-domain-sentiment-analysis.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
+  </tr>
  </table>
  </p>
 <hr />

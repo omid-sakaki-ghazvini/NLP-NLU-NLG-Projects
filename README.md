@@ -103,6 +103,11 @@
    <td><a href="https://omidsakaki.ir/educations/20" target="_blank" rel="noreferrer">NLTK</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Data-Mining/blob/master/nltk.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
   </tr>
+  <tr>
+    <td>Anomaly Detection with VLMS</td>
+   <td><a href="https://omidsakaki.ir/projects/75jects/22" target="_blank" rel="noreferrer">VLMS</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/anomaly-detection-with-vlms.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
+  </tr>
  </table>
  </p>
 <hr />

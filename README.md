@@ -58,6 +58,11 @@
    <td><a href="https://omidsakaki.ir/projects/38" target="_blank" rel="noreferrer">AI Agent</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/DocQA_Agent_A_Local%2C_Multi_Agent_Document_Q%26A_System_with_LangGraph_%26_HuggingFace.ipynb" target="_blank" rel="noreferrer"> <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/langchain.svg" alt="pytorch" width="40" height="40"/> </a></td>
   </tr>
+  <tr>
+    <td>Machine Translation with Simple Self-Attention</td>
+   <td><a href="https://omidsakaki.ir/projects/31" target="_blank" rel="noreferrer">Machine Translation</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/machine-translation-with-simple-self-attention.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
+  </tr>
  </table>
  </p>
 <hr />

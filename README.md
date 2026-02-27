@@ -1,5 +1,5 @@
-<h1 align="left">Computer Vision Projects</h1>
-<h4 align="left">Image Processing & Computer Vision & GANs Projects with TensorFlow and PyTorch in Jupyter Notebooks.</h4>
+<h1 align="left">Natural Language Processing Projects</h1>
+<h4 align="left">NLP & NLU & NLG Projects with TensorFlow and PyTorch and LangGraph and HuggingFace LLM in Jupyter Notebooks.</h4>
 <p align="left">
  <table>
   <tr>

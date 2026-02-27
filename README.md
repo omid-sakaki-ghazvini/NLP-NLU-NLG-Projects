@@ -63,6 +63,11 @@
    <td><a href="https://omidsakaki.ir/projects/31" target="_blank" rel="noreferrer">Machine Translation</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/machine-translation-with-simple-self-attention.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
   </tr>
+   <tr>
+    <td>Building a RAG system with Langchain and HuggingFace</td>
+   <td><a href="https://omidsakaki.ir/projects/24" target="_blank" rel="noreferrer">RAG</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Building_a_RAG_system_with_Langchain_and_Hugging_Face.ipynb" target="_blank" rel="noreferrer"> <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/langchain.svg" alt="pytorch" width="40" height="40"/> </a></td>
+  </tr>
  </table>
  </p>
 <hr />

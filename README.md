@@ -98,6 +98,11 @@
    <td><a href="https://omidsakaki.ir/projects/4" target="_blank" rel="noreferrer">Text Classification</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Persian_Fake_News.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
   </tr>
+  <tr>
+    <td>Persian Natural Language Processing</td>
+   <td><a href="https://omidsakaki.ir/educations/20" target="_blank" rel="noreferrer">NLTK</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Data-Mining/blob/master/nltk.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
+  </tr>
  </table>
  </p>
 <hr />

@@ -38,6 +38,11 @@
    <td><a href="https://omidsakaki.ir/projects/55" target="_blank" rel="noreferrer">LangGraph</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Implementation_and_Comparison_of_8_RAG_Architectures.ipynb" target="_blank" rel="noreferrer"> <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/langchain.svg" alt="RAG" width="40" height="40"/> </a></td>
   </tr>
+  <tr>
+    <td>Knowledge Graph Based QA System Using Graph Attention Networks (GAT)</td>
+   <td><a href="https://omidsakaki.ir/projects/50" target="_blank" rel="noreferrer">QA System</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Knowledge_Graph_Based_QA_System_Using_Graph_Attention_Networks_(GAT).ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
+  </tr>
  </table>
  </p>
 <hr />
